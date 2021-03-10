@@ -1,0 +1,66 @@
+Video,Video title,Video publish time,Views,Watch time (hours),Subscribers,Your estimated revenue (USD),Impressions,Impressions click-through rate (%)
+Total,,,5741,253.1931,138,0,38496,6.37
+VApXDsYO5Gg,How to use Storybook JS to create a component design system in React,"Jun 9, 2020",984,50.2425,7,0,5998,9.75
+aYZRRyukuIw,How to Add Drag and Drop in React with React Beautiful DnD,"Oct 1, 2020",771,32.451,12,0,3037,10.7
+q9tpBtvTTz8,How to Use Framer Motion to Add Animations and Page Transitions to a Next.js React App,"Jul 13, 2020",385,14.6907,7,0,1970,7.87
+oxUPXhZ1t9I,Next.js GraphQL Tutorial - Launch Dashboard with SpaceX GraphQL API & Apollo Client,"Dec 1, 2020",281,12.1665,7,0,1769,7.86
+ubB5l-HVPgY,How to Use Chakra UI with Next.js and React,"Oct 20, 2020",247,9.1296,2,0,1685,6.94
+mcaYol_XFk4,Draggable Kanban App with Svelte ft. Brittney Postma - Colbyashi Maru,"Mar 3, 2021",228,15.1458,0,0,2904,3.17
+QwEQKM4YRnU,What is Open Graph and how can it help my website with social media?,"Mar 26, 2020",181,4.4614,1,0,1101,7.9
+C1-hmauMht0,Sass in Next.js Tutorial - Write SCSS with CSS Modules,"Jan 7, 2021",171,6.6915,1,0,822,4.38
+OtcA2EAlldo,How to Use SVG Icons in React with React Icons and Font Awesome,"Sep 24, 2020",163,4.9936,0,0,787,8.01
+KFuaybrXCdw,How to Use Postman to Test APIs and Manage Collections,"Jun 30, 2020",153,6.6368,0,0,727,7.57
+1n-jHHNSoTw,How to Use Github Actions to Automate Tests and Slack Notifications,"Jun 2, 2020",135,6.1246,1,0,692,7.95
+8YWrmZoUYGs,How to Use the YouTube API in React to Add a Playlist to a Next.js App,"Aug 6, 2020",120,3.9128,1,0,483,8.07
+iW39Merz0zE,Data Fetching in Next.js - Rick and Morty REST API Tutorial,"Jul 9, 2020",116,6.7385,1,0,647,7.26
+NGjBskaix2o,Deploy Next.js to Cloudflare Pages - Cloudflare Static Web Apps Tutorial,"Mar 8, 2021",113,6.269,,0,1164,3.87
+tuzys2b1J70,Git Commit Hooks with Husky - Format with Prettier on Pre-Commit Tutorial,"Oct 13, 2020",106,4.465,1,0,347,8.65
+TR2va67cVkQ,How to Sync VS Code Settings and Extensions Across Computers and Multiple Devices,"Jun 16, 2020",99,2.8634,1,0,429,11.19
+oFGs_x7kxZg,How to Create a Next.js Starter and Add Sass to a Next.js React App,"Aug 18, 2020",93,2.0949,1,0,454,6.17
+1GPYnoG_nkE,Intro to Agile Software Development with Jira,"May 12, 2020",90,4.3972,1,0,942,6.69
+GryBIsfBfro,How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet,"Mar 31, 2020",89,2.3536,1,0,708,3.39
+GZl-yEz4_qw,How to Add Search to a React App with Fuse.js,"May 26, 2020",81,2.9903,1,0,378,12.43
+oq_RPOI0xsU,How to add environment variables with Gatsby and Netlify,"Apr 28, 2020",80,1.9886,0,0,265,8.68
+GLxgxnLTVLE,Create a Custom Contact Form with Netlify Forms and Next.js,"Aug 26, 2020",78,2.7014,3,0,575,5.57
+KcPJr1b_rv0,How to Create a Custom Mapbox Style and Add it to React Leaflet,"Apr 8, 2020",75,1.608,0,0,504,7.54
+ -gU-gkfEA1Q,What is the blink Tag in HTML? How to recreate it with CSS animations,"Jul 27, 2020",65,1.0762,0,0,136,7.35
+VQZk_t5R3E4,Promises in JavaScript: Asynchronous Programming & Requests - Jelly Drop,"Feb 24, 2021",63,2.0489,2,0,606,2.97
+6ElI2ZJ4Uro,What is SSG? Next.js Static Site Generation & Jamstack Apps,"Nov 18, 2020",52,2.1502,0,0,293,5.8
+D3h91EvRxuk,Use Github Actions to Automatically Deploy a Static Site  - Next.js & AWS S3,"Oct 28, 2020",52,2.445,2,0,517,4.06
+9nV4pIrKmyE,Jamstack App Tutorial - Create a Next.js App & Deploy to Vercel,"Sep 17, 2020",46,0.9445,0,0,574,3.31
+5UZBhWAlyTo,Full Stack Serverless with Prisma & Next.js ft. Mahmoud Abdelwahab - Colbyashi Maru,"Feb 18, 2021",45,8.9802,2,0,806,2.48
+auyZWWjXJCo,CSS Loading Animation Tutorial - Create a CSS Only Loading Skeleton with CSS Gradients,"May 5, 2020",44,1.0478,0,0,159,2.52
+nIiOwNb7KR4,Themeable Layouts with Sass & 11ty ft. Stephanie Eckles - Colbyashi Maru,"Feb 11, 2021",43,7.631,0,0,731,1.64
+7KeZcRMltP0,How to Use Tailwind CSS in React & HTML - Tailwind CSS Styling Tutorial,"May 19, 2020",42,1.5761,0,0,269,1.86
+ikVtaK9JmUw,Top 5 Code Tasks You Should Automate on Your Projects,"Feb 12, 2021",39,1.4765,0,0,515,3.11
+znLn9bVLB8E,"Manage Subscriptions with Gatsby, Netlify, Stripe, & Hasura - Part 1 - Colbyashi Maru","Feb 25, 2021",35,2.7884,1,0,712,2.25
+OIWVJj9yRbA,Top 7 VS Code Extensions I Used in 2020,"Dec 23, 2020",33,1.6371,1,0,239,2.51
+1lDGDzmbQWg,Host a Website on S3 - AWS Tutorial with CloudFront,"Mar 11, 2020",30,1.1756,0,0,153,9.8
+3dF4t56LHhs,Visual Regression Testing Tutorial with Applitools Eyes and Cypress,"Dec 9, 2020",29,2.0954,0,0,424,3.3
+Ef0gPGUh9oo,Create GitHub Actions with Node.js - Custom JavaScript GitHub Action Tutorial,"Feb 5, 2021",27,1.5614,1,0,423,1.42
+KRNiqCLlPNQ,How to Add an Image to Github for a Project's Social Media Preview,"Mar 3, 2020",25,0.2895,0,0,45,8.89
+KXBf5l4rbL4,Save & Organize Icons and SVG Files with Iconset,"Sep 7, 2020",24,0.7081,1,0,95,8.42
+MsrNdjp0aKI,How to Create a Table of Contents in Ghost CMS for Your Blog Post or Article on FreeCodeCamp.org,"Feb 25, 2020",20,0.3333,0,0,31,6.45
+eQGevb1TuyQ,Headless WordPress with Next.js ft. Kevin Cunningham - Colbyashi Maru,"Jan 14, 2021",20,1.7234,0,0,561,1.96
+Q0xVnRanXVk,Custom Hooks in React.js - Create & Publish a React Hook to NPM Tutorial,"Apr 14, 2020",19,0.5105,0,0,72,5.56
+isbr52VKjb0,Map Data from a GraphQL API in Gatsby - GraphCMS Data Sourcing Tutorial,"Jun 23, 2020",18,0.7018,0,0,140,5.71
+9bfxeod27fU,Data Fetching in Gatsby - Coronavirus Mapping App with Disease.sh REST API Tutorial,"Apr 22, 2020",17,0.4913,0,0,96,6.25
+mTsld21vJ_o,Build a Santa Tracker with Next.js and Leaflet - STREAM,"Dec 18, 2020",16,0.3354,0,0,254,1.97
+P8wv4ylc_-s,How to add Google Analytics to a YouTube Channel for Video Tracking and Metrics,"Mar 18, 2020",14,0.2727,0,0,44,0
+12oAIHHEJMw,Automate Tasks with Zapier - Workflow Automation Tutorial,"Jul 23, 2020",13,0.4129,0,0,106,3.77
+FkO8uggDEXY,How to Create a Mapping App in React: Summer Road Trip with Gatsby and React Leaflet,"Mar 24, 2020",13,0.2494,0,0,117,4.27
+KHG0fdKCQeo,Destructuring Assignment in JavaScript: Destructure Objects & Arrays - Jelly Drop,"Jan 12, 2021",12,0.4002,0,0,235,1.28
+pj0RLsES9EI,Template Literals in JavaScript: Backticks in Strings for Interpolation - Jelly Drop,"Jan 21, 2021",11,0.4527,0,0,268,1.87
+3gL8ZMlkwAg,"Spread Operator in JavaScript: 3 Dots Syntax with Objects, Arrays, & Functions - Jelly Drop","Feb 8, 2021",7,0.5035,0,0,344,1.45
+uc2OVhKr5mM,Serverless Guestbook with Cloudflare Workers ft. Kristian Freeman - Colbyashi Maru,"Jan 27, 2021",7,1.0114,0,0,307,0.65
+OzttcyBPLKU,Top 5 Videos for Developers in 2020 on My Channel,"Dec 16, 2020",5,0.115,0,0,132,1.52
+l3v_owhhJLw,Optional Chaining in JavaScript: Chain with Question Mark Operator - Jelly Drop,"Jan 27, 2021",5,0.1403,0,0,271,0.74
+Bei0Cvu7D7I,Next.js Visual Regression Testing with Applitools and Cypress  - STREAM,"Dec 3, 2020",4,0.4168,0,0,125,0.8
+pQ_5PGv0YTA,Creating Impactful Mapping Apps with Real-World Data,"Mar 5, 2020",3,0.0532,0,0,41,4.88
+yomGOIh8pso,WordPress in a Headless World - WordCamp Philly 2020,"Nov 19, 2020",3,0.3091,0,0,114,1.75
+tygP8rFILY8,blink-182 Power Hour :: Part 1,"Mar 13, 2009",1,0.0119,,0,1,0
+RAnCFEiznto,blink-182 Power Hour :: Part 5,"Mar 13, 2009",,,,0,1,0
+e4gamcRIPd8,blink-182 Power Hour :: Part 4,"Mar 13, 2009",,,,0,1,0
+ebKwArFJOOU,blink-182 Power Hour :: Part 2,"Mar 13, 2009",,,,0,1,0
+frYRx0UR0sY,Q&A Course Launch #eggheadChat AMA,"Dec 18, 2020",,,,0,148,0
+vxaeDkw7_VE,blink-182 Power Hour :: Part 3,"Mar 13, 2009",,,,0,1,0

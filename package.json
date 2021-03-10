@@ -1,0 +1,11 @@
+{
+  "name": "youtube-analytics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^4.15.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.1"
+  }
+}
